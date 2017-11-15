@@ -11,8 +11,6 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 
 ## Visual Studio
 ### Productivity
-* [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) - The legendary .NET productivity tool: find and fix errors and code smells, navigate and refactor, run unit tests and write quality code faster
-* [ReSharper.AutoFormatOnSave](https://marketplace.visualstudio.com/items?itemName=PedroPombeiro.ReSharperAutoFormatOnSave) - Runs silent Reformat Code command upon file save
 * Productivity Power Tools [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017) - Bundle installer that will install each of the individual components of Productivity Power Tools
   * Align Assignments [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.AlignAssignments) - Aligns assignment statements 
   * Copy As Html [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CopyAsHtml) - Provides support for the HTML Clipboard format when cutting for copying code from the editor
@@ -29,13 +27,17 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
   * Shrink Empty Lines [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SyntacticLineCompression) - Shrinks lines that contain neither text nor numbers
   * Solution Error Visualizer [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer) - Highlights errors and warnings in the Solution Explorer
   * Time Stamp Margin [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.TimeStampMargin) - Adds a timestamp margin to the debug output window
+* [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) - The legendary .NET productivity tool: find and fix errors and code smells, navigate and refactor, run unit tests and write quality code faster
+* [ReSharper.AutoFormatOnSave](https://marketplace.visualstudio.com/items?itemName=PedroPombeiro.ReSharperAutoFormatOnSave) - Runs silent Reformat Code command upon file save
+* [VSColorOutput](https://github.com/mike-ward/VSColorOutput) [2015 or earlier](https://github.com/mike-ward/VSColorOutput/releases/tag/2.4) [2017](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Change the color of a line emitted to the output window based on specified rules
 ### Version control system
 * [ankhsvn](https://ankhsvn.open.collab.net/) [[2005-2015]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportSCCProvider) [[2017]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportforVisualStudio) - Allows to perform version control operations directly from inside the Microsoft Visual Studio IDE
 ### Web
-* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
 * [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=kspearrin.jQueryCodeSnippets) - This extension hosts a collection of common jQuery code snippets
 
 ## Visual Studio Code
+### Debuggers
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
 ### Languages 
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# for Visual Studio Code
 ### Themes
