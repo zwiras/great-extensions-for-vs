@@ -12,6 +12,7 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ## Visual Studio
 ### Productivity
 * [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) - The legendary .NET productivity tool: find and fix errors and code smells, navigate and refactor, run unit tests and write quality code faster
+* [ReSharper.AutoFormatOnSave](https://marketplace.visualstudio.com/items?itemName=PedroPombeiro.ReSharperAutoFormatOnSave) - Runs silent Reformat Code command upon file save
 * Productivity Power Tools [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017) - Bundle installer that will install each of the individual components of Productivity Power Tools
   * Align Assignments [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.AlignAssignments) - Aligns assignment statements 
   * Copy As Html [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CopyAsHtml) - Provides support for the HTML Clipboard format when cutting for copying code from the editor
@@ -35,5 +36,7 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 * [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=kspearrin.jQueryCodeSnippets) - This extension hosts a collection of common jQuery code snippets
 
 ## Visual Studio Code
+### Languages 
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# for Visual Studio Code
 ### Themes
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
