@@ -4,8 +4,8 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ## Contents
 
 * [Visual Studio](#visual-studio)
-  * [Version control system](#version-control-system)
   * [Productivity](#productivity)
+  * [Version control system](#version-control-system)
   * [Web](#web)
 * [Visual Studio Code](#visual-studio-code)
 
@@ -28,10 +28,12 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
   * Shrink Empty Lines [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SyntacticLineCompression) - Shrinks lines that contain neither text nor numbers
   * Solution Error Visualizer [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer) - Highlights errors and warnings in the Solution Explorer
   * Time Stamp Margin [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.TimeStampMargin) - Adds a timestamp margin to the debug output window
+### Version control system
+* [ankhsvn](https://ankhsvn.open.collab.net/) [[2005-2015]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportSCCProvider) [[2017]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportforVisualStudio) - Allows to perform version control operations directly from inside the Microsoft Visual Studio IDE
 ### Web
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
 * [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=kspearrin.jQueryCodeSnippets) - This extension hosts a collection of common jQuery code snippets
-### Version control system
-* [ankhsvn](https://ankhsvn.open.collab.net/) [[2005-2015]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportSCCProvider) [[2017]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportforVisualStudio) - Allows to perform version control operations directly from inside the Microsoft Visual Studio IDE
 
 ## Visual Studio Code
+### Themes
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
