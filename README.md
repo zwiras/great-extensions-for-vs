@@ -49,8 +49,10 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ### Debuggers
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
 ### Languages 
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Enables you to run any language’s code snippets in Visual Studio Code
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# for Visual Studio Code
 ### Themes
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
 ### Other
 * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Provides a real-time preview of markdown documents
+* [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files
