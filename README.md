@@ -4,6 +4,7 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ## Contents
 
 * [Visual Studio](#visual-studio)
+  * [Functionalities](#functionalities)
   * [Productivity](#productivity)
   * [Version control system](#version-control-system)
   * [Web](#web)
@@ -13,6 +14,9 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
   * [Themes](#themes)
 
 ## Visual Studio
+### Functionalities
+* [Automatic Versions](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions) - Automatically increments or updates version numbers in a project, based on configurable settings
+* Microsoft Visual Studio Installer Projects [[2013]](https://marketplace.visualstudio.com/items?itemName=UnniRavindranathan-MSFT.MicrosoftVisualStudio2013InstallerProjects)[[2015]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2015InstallerProjects)[[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2017InstallerProjects) - This extension provides support for Visual Studio Installer Projects
 ### Productivity
 * Productivity Power Tools [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017) - Bundle installer that will install each of the individual components of Productivity Power Tools
   * Align Assignments [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.AlignAssignments) - Aligns assignment statements 
