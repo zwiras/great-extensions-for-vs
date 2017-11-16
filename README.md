@@ -12,6 +12,7 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
   * [Debuggers](#debuggers)
   * [Languages](#languages)
   * [Themes](#themes)
+  * [Other](#other) 
 
 ## Visual Studio
 ### Functionalities
@@ -51,3 +52,5 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# for Visual Studio Code
 ### Themes
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
+### Other
+* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Provides a real-time preview of markdown documents
