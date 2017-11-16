@@ -17,7 +17,9 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ### Functionalities
 * [Automatic Versions](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions) - Automatically increments or updates version numbers in a project, based on configurable settings
 * Microsoft Visual Studio Installer Projects [[2013]](https://marketplace.visualstudio.com/items?itemName=UnniRavindranathan-MSFT.MicrosoftVisualStudio2013InstallerProjects)[[2015]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2015InstallerProjects)[[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2017InstallerProjects) - This extension provides support for Visual Studio Installer Projects
+* [Package Installer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller) - Makes it easier, faster and more convenient than ever to install Bower, npm, Yarn, JSPM, TSD, Typings and NuGet packages to any project
 ### Productivity
+* [Poor Man's T-Sql Formatter SSMS/VS Extension](https://marketplace.visualstudio.com/items?itemName=TaoKlerks.PoorMansT-SqlFormatterSSMSVSExtension) - T-SQL Formatting Extension for SSMS 2014-17 and Visual Studio 2013-2017
 * Productivity Power Tools [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017) - Bundle installer that will install each of the individual components of Productivity Power Tools
   * Align Assignments [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.AlignAssignments) - Aligns assignment statements 
   * Copy As Html [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CopyAsHtml) - Provides support for the HTML Clipboard format when cutting for copying code from the editor
