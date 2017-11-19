@@ -48,11 +48,37 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ## Visual Studio Code
 ### Debuggers
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
+### Extension Pack
+* [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Popular VS Code extensions for Java development
+* [VS Code for Node.js - Development Pack](https://marketplace.visualstudio.com/items?itemName=nodesource.vscode-for-node-js-development-pack) - A starter pack of extensions for VS Code + Node.js by NodeSource
+### Keymaps
+* [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) - Popular Atom keybindings for Visual Studio Code
+* [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
 ### Languages 
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code (Javascript, JSON, CSS, Sass, and HTML) in place for VS Code 
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Enables you to run any language’s code snippets in Visual Studio Code
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# for Visual Studio Code
+* [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that speed up your development workflow
+* [C# IL Viewer](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer) - A C# IL Viewer for Visual Studio Code
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code
+### Other
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
+* [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - Computes complexity in TypeScript / JavaScript files
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor
+* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Provides a real-time preview of markdown documents
+* [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - Supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json
+* [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Plugin that autocompletes npm modules in import statements
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Plugin that autocompletes filenames
+* [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files
+* [VS Code .csproj](https://marketplace.visualstudio.com/items?itemName=lucasazzola.vscode-csproj) - Add/remove files from .csproj
+* [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML Formatting, XQuery, and XPath Tools
+### Snippets
+* [C# Snippets](https://marketplace.visualstudio.com/items?itemName=jorgeserrano.vscode-csharp-snippets) - This extension adds snippets for C#
+* [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A basic HTML5 boilerplate snippet generator
+* [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax
 ### Themes
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
-### Other
-* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Provides a real-time preview of markdown documents
-* [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files
