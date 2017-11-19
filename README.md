@@ -10,9 +10,13 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
   * [Web](#web)
 * [Visual Studio Code](#visual-studio-code)
   * [Debuggers](#debuggers)
+  * [Extension Pack](#extension-pack)
   * [Languages](#languages)
-  * [Themes](#themes)
+  * [Keymaps](#keymaps)
+  * [Linters](#linters)
   * [Other](#other) 
+  * [Snippets](#snippets)
+  * [Themes](#themes)
 
 ## Visual Studio
 ### Functionalities
@@ -62,12 +66,18 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 * [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that speed up your development workflow
 * [C# IL Viewer](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer) - A C# IL Viewer for Visual Studio Code
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code
+* [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute
+### Linters 
+* [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Modern CSS/SCSS/Less linter
 ### Other
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
 * [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - Computes complexity in TypeScript / JavaScript files
+* [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information about css colors
+* [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Compile Sass or Scss to CSS at realtime with live browser reload
 * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Provides a real-time preview of markdown documents
 * [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - Supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json
 * [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Plugin that autocompletes npm modules in import statements
@@ -76,9 +86,11 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 * [VS Code .csproj](https://marketplace.visualstudio.com/items?itemName=lucasazzola.vscode-csproj) - Add/remove files from .csproj
 * [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML Formatting, XQuery, and XPath Tools
 ### Snippets
+* [Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode) - Bootstrap 4 snippets based on documentation + Font awesome snippets
 * [C# Snippets](https://marketplace.visualstudio.com/items?itemName=jorgeserrano.vscode-csharp-snippets) - This extension adds snippets for C#
 * [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A basic HTML5 boilerplate snippet generator
 * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax
+* [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Indented Sass syntax highlighting, autocomplete & snippets
 ### Themes
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
