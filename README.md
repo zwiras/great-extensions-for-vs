@@ -1,8 +1,11 @@
-# great-extensions-for-vs 
-A collection of practical extensions for Visual Studio and Visual Studio Code
+# Great Extensions for Visual Studio 
+A collection of useful extensions for Visual Studio and Visual Studio Code
+
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/zwiras/great-extensions-for-vs/blob/master/contributing.md) pages first. We accept proprietary and commercial software too.
 
 ## Contents
-
 * [Visual Studio](#visual-studio)
   * [Functionalities](#functionalities)
   * [Productivity](#productivity)
@@ -122,3 +125,11 @@ A collection of practical extensions for Visual Studio and Visual Studio Code
 ### Version control system
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file or line History
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore the history of a file or branch, gain valuable insights via powerful comparison commands, and so much more
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [zwiras](https://github.com/zwiras) has waived all copyright and related or neighboring rights to this work.
+
+
