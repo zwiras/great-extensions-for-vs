@@ -51,6 +51,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) - The legendary .NET productivity tool: find and fix errors and code smells, navigate and refactor, run unit tests and write quality code faster
 * [ReSharper.AutoFormatOnSave](https://marketplace.visualstudio.com/items?itemName=PedroPombeiro.ReSharperAutoFormatOnSave) - Runs silent Reformat Code command upon file save
 * [VSColorOutput](https://github.com/mike-ward/VSColorOutput) [[2015 or earlier]](https://github.com/mike-ward/VSColorOutput/releases/tag/2.4) [[2017]](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Change the color of a line emitted to the output window based on specified rules
+* [XamlFormatter [2012-2017]](https://marketplace.visualstudio.com/items?itemName=DannOh.XamlFormatter) - Formats Xaml the way I want it formatted. Focusing entirely on spacing and leaving the decision of what belongs on what line up to you.
 ### Version control system
 * [ankhsvn](https://ankhsvn.open.collab.net/) [[2005-2015]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportSCCProvider) [[2017]](https://marketplace.visualstudio.com/items?itemName=vs-publisher-303797.AnkhSVN-SubversionSupportforVisualStudio) - Allows to perform version control operations directly from inside the Microsoft Visual Studio IDE
 ### Web
