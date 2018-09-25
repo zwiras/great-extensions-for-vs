@@ -112,7 +112,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [RegExp Preview and Editor](https://marketplace.visualstudio.com/items?itemName=le0zh.vscode-regexp-preivew) - Extension based on regexper-static. Including regexp expression preivewer and realtime preivew editor
 * [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files
 ### Snippets
-* [Angular 5 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - Angular (2+) Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS & Testing) 
+* [Angular 6 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - Angular (2+) Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS & Testing) 
 * [Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode) - Bootstrap 4 snippets based on documentation + Font awesome snippets
 * [C# Snippets](https://marketplace.visualstudio.com/items?itemName=jorgeserrano.vscode-csharp-snippets) - This extension adds snippets for C#
 * [ES7 React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux in JS with babel and ES7 syntax
