@@ -62,6 +62,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol
 ### Extension Pack
 * [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) - Essential  extensions that are amazingly useful for Angular development
+* [Angular Productivity Pack](https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack) - A collection of Angular extensions to boost productivity
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Popular VS Code extensions for Java development
 * [JSON to TS](https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts) - Convert JSON object to typescript interfaces
 * [VS Code for Node.js - Development Pack](https://marketplace.visualstudio.com/items?itemName=nodesource.vscode-for-node-js-development-pack) - A starter pack of extensions for VS Code + Node.js by NodeSource
