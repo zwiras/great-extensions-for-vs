@@ -71,6 +71,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) - Popular Atom keybindings for Visual Studio Code
 * [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
 ### Languages 
+* [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code (Javascript, JSON, CSS, Sass, and HTML) in place for VS Code 
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Enables you to run any language’s code snippets in Visual Studio Code
