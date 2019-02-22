@@ -48,6 +48,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   * Shrink Empty Lines [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SyntacticLineCompression) - Shrinks lines that contain neither text nor numbers
   * Solution Error Visualizer [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer) - Highlights errors and warnings in the Solution Explorer
   * Time Stamp Margin [[2017]](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.TimeStampMargin) - Adds a timestamp margin to the debug output window
+* [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) - This extension shows reference search results as separate view, just like search results
 * [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) - The legendary .NET productivity tool: find and fix errors and code smells, navigate and refactor, run unit tests and write quality code faster
 * [ReSharper.AutoFormatOnSave](https://marketplace.visualstudio.com/items?itemName=PedroPombeiro.ReSharperAutoFormatOnSave) - Runs silent Reformat Code command upon file save
 * [VSColorOutput](https://github.com/mike-ward/VSColorOutput) [[2015 or earlier]](https://github.com/mike-ward/VSColorOutput/releases/tag/2.4) [[2017]](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Change the color of a line emitted to the output window based on specified rules
